@@ -1,0 +1,11 @@
+.active {
+	background-color: blueviolet;
+}
+
+.navContainer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	padding: 20px;
+}
